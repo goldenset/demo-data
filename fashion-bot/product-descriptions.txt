@@ -1,0 +1,40 @@
+Blue Jeans
+    Name: Classic Blue Denim Jeans
+    Available Sizes: XS, S, M, L, XL, XXL
+    Fit: These jeans offer a versatile and comfortable slim-fit design, ensuring a stylish and flattering look.
+    Available Colors: Classic Blue
+    Price: $49.99
+    Material: Our classic blue denim jeans are crafted from high-quality 98% cotton and 2% elastane for added stretch and comfort.
+    Washing Instructions: To keep your jeans looking their best, we recommend washing them inside out in cold water with similar colors. Tumble dry on low heat, and iron on a medium setting if needed.
+Floral Summer Dress
+    Name: Summer Blooms Floral Dress
+    Available Sizes: XS, S, M, L
+    Fit: The Summer Blooms Floral Dress features a relaxed and flowy fit, perfect for warm summer days.
+    Available Colors: Vibrant Floral Print
+    Price: $59.99
+    Material: This stunning summer dress is made of lightweight and breathable 100% rayon fabric, ensuring comfort and style.
+    Washing Instructions: For best care, hand wash the dress in cold water and hang it to dry. Avoid wringing or twisting to preserve the fabric's delicate nature.
+Leather Jacket
+    Name: Classic Leather Biker Jacket
+    Available Sizes: XS, S, M, L, XL
+    Fit: Our Classic Leather Biker Jacket offers a timeless slim-fit design that exudes confidence and style.
+    Available Colors: Black, Brown
+    Price: $169.99
+    Material: Crafted from premium genuine leather with a soft polyester lining for comfort and durability.
+    Washing Instructions: We recommend professional leather cleaning for this jacket to maintain its quality and appearance.
+Sweater
+    Name: Cozy Knit Sweater
+    Available Sizes: XS, S, M, L, XL
+    Fit: The Cozy Knit Sweater provides a relaxed and comfortable fit, making it an ideal choice for chilly days.
+    Available Colors: Heather Gray, Navy, Burgundy
+    Price: $39.99
+    Material: Made from a warm blend of 60% cotton and 40% acrylic for softness and insulation.
+    Washing Instructions: Machine wash in cold water on a gentle cycle. Lay flat to dry to maintain the sweater's shape and quality.
+Slim-Fit Trousers
+    Name: Essential Slim-Fit Trousers
+    Available Sizes: XS, S, M, L, XL
+    Fit: These trousers feature a modern and tailored slim-fit design for a sharp and polished appearance.
+    Available Colors: Black, Charcoal Gray, Navy
+    Price: $59.99
+    Material: Crafted from high-quality 100% polyester fabric for a comfortable and wrinkle-resistant wear.
+    Washing Instructions: Machine wash on a delicate cycle in cold water. Hang to dry and iron on a low setting if necessary.
